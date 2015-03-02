@@ -1,3 +1,7 @@
+#
+#  Simple portscanner
+#  Copyright (C) 2014  Aliaksandr Krukau
+#
 CC=g++
 CPFLAGS=-g -Wall
 LDFLAGS= -lpcap
